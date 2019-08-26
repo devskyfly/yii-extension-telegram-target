@@ -1,9 +1,11 @@
 ## yii-eaxtension-telegram-tarfet
 
+Realize telegram chat as log target.
+
 ```php
 'targets' => [
     [
-        'class' => 'devskyfly\yii-extension-telegram-target\TelegramTarget',
+        'class' => 'devskyfly\yiiExtensionTelegramTarget\TelegramTarget',
         'levels' => ['error', 'warning'],
         'categories' => ['yii\db\*'],
         'except' => [
