@@ -1,0 +1,22 @@
+{
+    "name": "devskyfly/yii-extension-telegram-target",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ivan",
+            "email": "devskyfly@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "longman/telegram-bot": "dev-master",
+        "devskyfly/php56": "dev-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "devskyfly\\yiiExtensionTelegramTarget\\": "src/"
+        }
+    }
+}
