@@ -1,4 +1,4 @@
-## yii-eaxtension-telegram-tarfet
+## yii-extension-telegram-target
 
 Realize telegram chat as log target.
 
