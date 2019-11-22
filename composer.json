@@ -12,7 +12,7 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "longman/telegram-bot": "dev-master",
-        "devskyfly/php56": "dev-dev"
+        "devskyfly/php56": "^v1.0.0"
     },
     "autoload": {
         "psr-4": {
